@@ -1,1 +1,8 @@
-
+mysql:
+  url: jdbc:mysql://localhost:3306/my?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+email:
+  username: 601406224@qq.com
+  password: biejqgwuhdlibedg
+  name: 拉钩-ljh
+  subject: 注册验证码
+  hostname: smtp.qq.com
